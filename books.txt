@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>SMU</title>
+<link rel="icon" href="pic3.jpg" >
+<style>
+header {background-color:blue;
+  { background-image: url("pic3.jpg");
+   background-position: center;
+   background-attachment: fixed;}
+    padding:70px;
+    text-indent: 90px;
+    font-size: 20px;
+    color: orange; 
+
+	
+}
+a:link, a:visited {
+    background-color: blue;
+    color: white;
+    padding: 12px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	}
+nav {
+    float: left;
+    width: 97%;
+    height: 880px;
+    background: orange;
+    padding: 20px;
+	
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:blue;
+   color: white;
+   text-align: center;
+}
+
+body {
+     color: black; 
+     font-size: large;
+     font-weight: bold;
+    
+ }
+</style>
+<head>
+<body>
+<header>
+<h1> SEFAKO MAKGATHO HEALTH SCIENCE UNIVERSITY 
+</h1>
+<h2>STUDENT PORTAL</h2>
+<img src="pic3.jpg" width="100" >
+<a href="homepag.html" color="white">HOME</a> <a href="aboutus.html" >AboutUs</a>   <a href="student.html" >Students</a>    <a href="app.html" >Applicants</a>   
+</header>
+<nav>
+<h2>Books</h2>
+<p>SMU Students, we know that looking for books can be a hassle, and we want to help you out!<br></br>
+
+    Below, we have linked your prescribed textbooks from the bookstore, 'Van Schaik'.<br></br>
+    
+    You are able to purchase books by requesting a quote or adding your desired book to your 'wish list' and 'checking 
+    out' if, or when, are ready to do so.<br></br>
+    
+    We hope that this will make your life easier as you will be able to check the pricing of books before purchasing them and have
+    the option of having the books delivered to you.</p>
+       
+<p> Computer Science </p>
+<p><a href="https://www.vanschaik.com/book/5167afc36a35a/"> New Perspectives On HTML, XHTML, Dynamic HTML by Carey P</a></p>
+<p><a href="https://www.vanschaik.com/book/5293022fd068f/"> Fundamentals Of Computer Science, Forouzan B </a></p>
+<p><a href="https://www.vanschaik.com/book/52a95b57a50db/"> Object-Oriented Programming Using C++, Farrell J</a></p>
+<p> Physical Science </p>
+<p><a href="https://www.vanschaik.com/book/5551b6e7f260b/">Introduction to Physics, Cutnell J, 10th edition</a></p>
+<p> Mathematics </p>
+<p><a href="https://www.vanschaik.com/book/562735b132deb/"> Calculus, Stewart J</a></p>
+  <p><a href="https://www.vanschaik.com/book/52f3d15565ebd/"> Elementary Linear Algebra,Anton H </a></p>
+<p> Statistics </p>
+<p><a href="https://www.vanschaik.com/book/5b51ea5762d52/">Essentials of Modern Business Statistics, Anderson D</a></p>
+<p> Applied Mathematics </p>
+<p><a href="https://www.vanschaik.com/ebook/526b915de5fda/"> Applied Mathematics, Logan D</a></p>
+</nav>
+<footer>
+  <p>Contact Us</p>
+  <img src="f.jpg" shape="circle" width="40" height="40">
+
+		<a href="https://www.facebook.com/www.smu.ac.za?ref=aymt_homepage_panel" class="icon">
+			<span>Facebook</span>
+		</a>
+
+<img src="t.jpg" shape="circle" width="40" height="40">
+		<a href="https://twitter.com/SMU_SA" class="icon">
+			<span>Twitter</span>
+		</a>
+<img src="r.jpg" shape="circle" width="40" height="40">
+ 
+		<a href="http://www.smu.ac.za/feed/" class="icon">
+			<span>RSS</span>
+	</a>
+</footer>
+<script>
+
+
+</body>
+</html>

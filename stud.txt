@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SMU</title>
+<link rel="icon" href="pic3.jpg" >
+<style>
+nav {
+    float: left;
+    width: 97%;
+    height: 450px;
+    background: orange;
+    padding: 20px;
+	
+}
+header {background-color:blue;
+  { background-image: url("pic3.jpg");
+   background-position: center;
+   background-attachment: fixed;}
+    padding:70px;
+    text-indent: 90px;
+    font-size: 20px;
+    color: orange; 
+
+}
+a:link, a:visited {
+    background-color: blue;
+    color: white;
+    padding: 12px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:blue;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<body>
+<header>
+<h1> SEFAKO MAKGATHO HEALTH SCIENCE UNIVERSITY 
+</h1>
+<h2>STUDENT PORTAL</h2>
+<img src="pic3.jpg" width="100" >
+<a href="homepag.html" >HOME</a> <a href="aboutus.html" >AboutUs</a>   <a href="student.html" >Students</a>    <a href="app.html" >Applicants</a>   
+</header>
+
+<nav>
+</br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+
+    <a href="assignment.html" position="center"  >LECTURES</a>
+	<a href="books.html" position="center"  >BOOKS</a> 
+	<a href="table.html" position="center"  >TIME TABLE</a>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+</nav>
+
+<footer>
+  <p>Contact Us</p>
+</footer>
+<script>
+
+
+
+</body>
+</html>
