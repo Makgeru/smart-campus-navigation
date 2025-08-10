@@ -1,0 +1,125 @@
+<!DOCTYPE html  >
+<html>
+<head>
+    <style>
+	nav {
+    float: left;
+    width: 97%;
+    height: 550px;
+    background: orange;
+    padding: 20px;
+	
+}
+
+header {
+background-color:blue;
+  { background-image: url("pic3.jpg");
+   background-position: center;
+   background-attachment: fixed;}
+    padding:70px;
+    text-indent: 90px;
+    font-size: 20px;
+    color: orange; 
+
+}
+a:link, a:visited {
+    background-color: blue;
+    color: white;
+    padding: 12px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:blue;
+   color: white;
+   text-align: center;
+}
+
+
+body {
+    background-color: orange;
+}
+    </style>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Kamogelo" />
+	<meta name="keywords" content="Lecture,Kamogelo" />
+	<meta name="description" content="Lecture" />
+	<meta name="robots" content="all" />
+	<link rel="stylesheet" type="text/css" href="css/main.css" />
+	<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
+	<link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
+
+	<title>Lecture -  Assignments</title>
+
+</head>
+
+<body>
+<header>
+<h1> SEFAKO MAKGATHO HEALTH SCIENCE UNIVERSITY 
+</h1>
+<h2>STUDENT PORTAL</h2>
+<img src="pic3.jpg" width="100" >
+<a href="homepag.html">HOME</a> <a href="aboutus.html" >AboutUs</a>   <a href="student.html" >Students</a>    <a href="app.html" >Applicants</a>   
+</header>
+<nav>
+	<div id="wrapper">
+	
+		<div id="header">
+			<h1> <span class="word">Lecture</span></h1>
+		</div>
+		
+		<!-- InstanceBeginEditable name="MenuBar" -->
+		<div id="menu">
+          <ul>
+            <li><a href="Notes.html">Notes</a></li>
+            <li><a href="pastpaper.html">Past papers</a></li>
+            <li class="assignment.html"><a href="#">Assignments</a></li>
+            <li><a href="video.html">Videos</a></li>
+          </ul>
+	    </div>
+		
+		<div id="content">
+          <h2>Assignments</h2>
+		  <ul class="Assignments">
+		  	<li><a href="http://nmu.ac.in/Portals/0/Question%20Bank/F.%20Y.%20B.%20Sc.(Information%20Technology)%20Paper%20I%20Question%20Bank.pdf" class="pdf">Assignment 1</a>pdf</li>
+			<li><a href="http://cbse.nic.in/sqp/multi_medi_webtechnology067_3.pdf" class ="pdf">Assignment 2</a>pdf</li>
+			<li><a href="https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y1997p5q5.pdf" class = "pdf">Assignment 3</a>, 
+            
+		 
+		
+		
+            </ul>
+        </div>
+    </div>
+	</nav>
+	
+	
+ <footer>
+  <p>Contact Us</p>
+ <img src="f.jpg" shape="circle" width="40" height="40">
+
+		<a href="https://www.facebook.com/www.smu.ac.za?ref=aymt_homepage_panel" class="icon">
+			<span>Facebook</span>
+		</a>
+
+<img src="t.jpg" shape="circle" width="40" height="40">
+		<a href="https://twitter.com/SMU_SA" class="icon">
+			<span>Twitter</span>
+		</a>
+<img src="r.jpg" shape="circle" width="40" height="40">
+ 
+		<a href="http://www.smu.ac.za/feed/" class="icon">
+			<span>RSS</span>
+	</a>
+</footer>
+<script>
+
+    </body>
+
+</html>

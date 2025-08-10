@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SMU</title>
+<link rel="icon" href="pic3.jpg" >
+<style>
+nav {
+    float: left;
+    width: 97%;
+    height: 680px;
+    background: orange;
+    padding: 20px;
+	
+}
+header {background-color:blue;
+  { background-image: url("pic3.jpg");
+   background-position: center;
+   background-attachment: fixed;}
+    padding:70px;
+    text-indent: 90px;
+    font-size: 20px;
+    color: orange; 
+
+	
+}
+a:link, a:visited {
+    background-color: blue;
+    color: white;
+    padding: 12px 19px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	}
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:blue;
+   color: white;
+   text-align: center;
+}
+
+table {
+    font-family: andalus, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, th {
+    border: 3px none ;
+    text-align: left;
+    padding: 8px;
+
+
+}
+  tr:nth-child(even) {
+    background-color: orange;
+}
+ tr:nth-child(odd) {
+   background-color: white;
+}
+
+</style>
+</head>
+<body>
+<header>
+<h1> SEFAKO MAKGATHO HEALTH SCIENCE UNIVERSITY 
+</h1>
+<h2>STUDENT PORTAL</h2>
+<img src="pic3.jpg" width="100" >
+<a href="homepag.html" color="white">HOME</a> <a href="aboutus.html" >AboutUs</a>   <a href="student.html" >Students</a>    <a href="app.html" >Applicants</a>   
+</header>
+<nav>
+<h2>BSC MATHEMATICAL SCIENCE 1 TIMETABLE </h2>
+
+<table>
+  <tr>
+    <th>PERIOD</th>
+    <th>MONDAY</th>
+    <th>TUESDAY</th>
+    <th>WEDNESDAY</th>
+    <th>THURSDAY</th>
+    <th>FRIDAY</th>
+  </tr>
+  <tr>
+    <th>7:45 - 8:45</th>
+    <td> MCOA011/MCOA012 </br> Venue: Study Hall, BMS Basement </td>
+    <td> MPHS011/MPHS012 TUTORIALS </br> Venue: Physics lab </td>
+    <td> MPHS011/MPHS012 TUTORIALS </br> Venue: Physics lab </td>
+     <td> MCOA011/MCOA012 </br> Venue: Study hall, BMS Basement </td>
+      <td> MHEL011/MHEL012 </br> Venue: Auditorium </td>
+  </tr>
+  <tr>
+    <th>8:30 - 9:10</th>
+   <td> MCOA011/MCOA012 </br> Venue: Study Hall, BMS Basement </td>
+    <td> MPHS011/MPHS012 TUTORIALS </br> Venue: Physics lab </td>
+     <td> MPHS011/MPHS012 TUTORIALS </br> Venue: Physics lab </td>
+      <td> MCOA011/MCOA012 </br> Venue: Study hall, BMS Basement </td>
+      <td> MHEL011/MHEL012 </br> Venue: Auditorium </td>
+ </tr>
+  <tr>
+    <th>9:15 - 9:55</th>
+    <td> MSTS011/MSTS012 </br> Venue: NSB 009 </td>
+     <td> MCOA011/MCOA012 </br> Venue: Study hall, BMS Basement </td>
+      <td> MPHS011/MPHS012 </br> Venue: FDN 208 / CP3  </td>
+       <td> MPHS011/MPHS012 </br> Venue: CP1 / CP3  </td>
+      <td> MSTS011/MSTS012 </br> Venue: NSB 015 </td>
+  </tr>
+  <tr>
+    <th>10:00 - 10:40</th>
+    <td> MSTS011/MSTS012 </br> Venue: NSB 009 </td>
+     <td> MMTH011/MMTH012 </br> Venue: Auditorium </td>
+     <td> MPHS011/MPHS012 </br> Venue: FDN 208 / CP3  </td>
+    <td> MPHS011/MPHS012 </br> Venue: CP1 / CP3  </td>
+     <td> MAPM011/MAPM012 </br> Venue: NSB 010  </td>
+  </tr>
+  <tr>
+    <th>10:45 - 11:25</th>
+    <td> MHEL011/MHEL012 </br> Venue: Auditorium </td>
+      <td> MMTH011/MMTH012 </br> Venue: Auditorium </td>
+       <td> MSTS011/MSTS012 </br> Venue: NSB 015 </td>
+       <td> MMTH011/MMTH012 </br> Venue: Auditorium </td>
+      <td> MAPM011/MAPM012 </br> Venue: NSB 010  </td>
+  </tr>
+  <tr>
+    <th>11:30 - 12:10</th>
+    <td> MHEL011/MHEL012 </br> Venue: Auditorium </td>
+     <td> </td>
+     <td> MSTS011/MSTS012 </br> Venue: NSB 015 </td>
+      <td> MMTH011/MMTH012 </br> Venue: Auditorium </td>
+      <td> MAPM011/MAPM012 </br> Venue: NSB 010  </td>
+  </tr>
+    <tr>
+    <th>12:15 - 12:55</th>
+      <td> MAPM011/MAPM012 </br> Venue: BMS N008 </td>
+        <td> </td>
+         <td> </td>
+        <td> </td>
+         <td> MAPM011/MAPM012 </br> Venue: NSB 010  </td>
+      </tr>
+       <tr>
+      <th>13:00 - 13:55</th>
+       <td> MAPM011/MAPM012 </br> Venue: BMS N008 </td>
+       <td> </td>   
+        <td> <img src= "data:image/jpeg;base64,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"> </td>   
+      <td> </td>   
+          <td> MMTH011/MMTH012 TUTORIALS </br> Venue: Auditorium </td> 
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th> PRACTICALS / TUTORIALS </th>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr>
+    <th> 14:00 - 14:40 </th>
+<th></th>
+    <td> MCOA011/MCOA012 PRACTICALS</br> Venue: RES 2B</td>
+    <td> MPHS011/MPHS012 PRACTICALS </br> Venue: Physics lab </td>
+    <td></td>
+    <td></td>
+  </tr>
+ <tr>
+    <th>14:45 - 15:25</th>
+<td></td>
+    <td> MCOA011/MCOA012 PRACTICLALS</br> Venue: RES 2B</td>
+    <td> MPHS011/MPHS012 PRACTICALS </br> Venue: Physics lab </td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+    <th>15:30 - 16:30</th>
+    <th></th>
+    <td> MCOA011/MCOA012 PRACTICALS </br> Venue: RES 2B</td>
+    <td> MPHS011/MPHS012 PRACTICALS </br> Venue: Physics lab </td>
+    <td></td>
+    <td></td>
+  </tr>
+<tr>
+   <th>16:15 - 16:45</th>
+ <td></td>
+    <td> MCOA011/MCOA012 </br> Venue: RES 2B</td>
+    <td> MPHS011/MPHS012 PRACTICALS </br> Venue: Physics lab </td>
+    <td></td>
+     <td></td>
+  </tr>
+</table>
+</nav>
+<footer>
+  <p>Contact Us</p>
+  <img src="f.jpg" shape="circle" width="40" height="40">
+
+		<a href="https://www.facebook.com/www.smu.ac.za?ref=aymt_homepage_panel" class="icon">
+			<span>Facebook</span>
+		</a>
+
+<img src="t.jpg" shape="circle" width="40" height="40">
+		<a href="https://twitter.com/SMU_SA" class="icon">
+			<span>Twitter</span>
+		</a>
+<img src="r.jpg" shape="circle" width="40" height="40">
+ 
+		<a href="http://www.smu.ac.za/feed/" class="icon">
+			<span>RSS</span>
+	</a>
+</footer>
+<script>
+
+</body>
+</html>
